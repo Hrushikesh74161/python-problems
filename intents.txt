@@ -1,0 +1,201 @@
+Service availability request:
+	i am looking for a sales and marketing chatbot.
+	do you provide service in agriculture domain.
+	do you provide assitance in sales marketing?
+	what are the areas in which you provide service
+	My company works for ecommerce. Do you provide services in this domain?
+	I am from IT d o you have experience in this domain
+	can i get a list of all the domains that you are involved in
+	What domain is your company currently working for?
+	Do you make bots for telecommunication domain?
+	please provide me a brief information about all your domains
+	tell me your compatabilities
+	What kind of enterprizes do you have worked with till now?
+	I would like to know more about your capabilities
+	do you provide services for sales marketing?
+	What are your capabilities?
+	Do you provide service in healthcare
+	Let me know if you guys work for banking.
+	My company is in agricultural product manufacturing. do you have expertise in this?
+	What all kind of enterprise functions you guys provide?
+
+Intent:"User company size"
+	Do you offer your services to medium sized enterprises?
+	Had saarthi ever coordinated with mid sized companies?
+	which size of enterprises do you serve usually?
+	Can in know the size of businesses you guys support
+	I have a small scale business need your help to grow it further
+	Is there any chance of a small sized business being served by your company?
+	I am a startup having 20 employees. Does your company collaborate in such cases?
+	Can i know the size of business you guys support
+	Do you work for only high scaled businesses?
+	How well do you cater to large scaled businesses?
+	if you serve medium size businesses then we can talk further
+	
+intent: "help"
+	how can you solve my problem?
+	can you solve my problem?
+	what are you capable of
+	what can you do to help me?
+	What is your purpose?
+	What's your skill?
+	How can you be of my help?
+	for what purpose you are made
+	tell me everything you can do
+	so tell me things which you can do
+	Please let me know what can you do for me?
+	How can you help me?
+	What can you do for me?
+	I need to know how you can help me out
+	How can you solve problem?
+	can you help me?
+	tell me what can you do?
+	What are the things that you can do for me
+	What can you do for me?
+	What are your super powers?
+	How can I speak with the team
+	How can I meet the team.
+	What can you do?
+	What all can you do?
+	Which all things are you programmed for
+	what other things you can do
+	How are you useful to me
+
+intent: "assist"
+	could you help me assist in user onboarding?
+	could you help me assist in sales marketing?
+	How can you help me in User onboarding?
+	Could you help me assist in customer support?
+	could you help me assist in lead genration?
+	Can you provide me help in Lead generation?
+	Do you provide assistance in Lead generation?
+	
+Intent: "Contact"
+	Your contact details?
+	I need to quickly connect over phone can you share number
+	How can I reach out over e-mail
+	Give your mail id details?
+	Can yo share with me contact number
+	Show me contact number.
+	tell me your email address
+	
+None:
+	i have a small food delivery business in my region.
+	the sky is clear
+	No, i want to check few things before that
+	you are my best friend
+	i am registered yes
+	
+opening conversation:
+	Hello my friend
+	how you doin
+	what is up
+	how have you been
+	how are you
+	how's your day
+	how are you doing
+	how is everything going on?
+	whats up
+	Hello how you doing
+	Hey what's going on
+	What's happening
+	How was your day
+	Hey how are you
+	Hello my dear friend!
+	Hello how are you
+	Hello Mate!
+	how are you recently !
+	Good Morning!
+	How is your day going?
+	
+ending conversation:
+	bye
+	talk to you later
+	take care
+	have a good day
+	bye bye
+	see you soon
+	see you
+	Goodbye
+	good bye
+	see you around
+	au revoir
+	Bye
+	thank you good bye
+	Asta la vista
+	Gotta go
+	laters
+	Bubye
+	Tata
+	
+declining intent:
+	nop
+	no i am not
+	No, i changed my mind
+	nay
+	nope
+	Nope
+	no, nothing else
+	nono
+	no chance
+	Nah
+	naah
+	No chance
+	no way
+	not a chance
+	
+affirmative intent:
+	yep
+	yeh
+	exactly
+	sure
+	spot on
+	You got that right mate.
+	indeed
+	perfect
+	yip
+	you're right
+	I'd say so
+	uh huh
+	alright
+	um yeah
+	totes
+	let's go
+	adios
+	I'd say yes
+	I'm happy with that
+	correct
+	yes it is clear
+	yes
+	thats great
+	
+Appreciative intent:
+	appreciate it!
+	Awesome
+	amazing
+	thanks
+	well done
+	I'm glad we met
+	you are perfect
+	good job
+	cool!
+	you are so great
+	it's good to see how easily you handle things
+	your work is to the point
+	thanks a ton
+	Dude you are smart!'
+	you are on point
+	great work
+	superb
+	I appreciate that
+	no one like you!
+	thanks alot
+	thnx
+	you are so Awesome!
+	thanks very much
+	You are very cool!
+	thanks
+	good job
+	you are always right
+	thank you very much
+	
